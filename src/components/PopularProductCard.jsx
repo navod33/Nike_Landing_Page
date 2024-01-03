@@ -21,3 +21,4 @@ const PopularProductCard = ({ imgURL, name, price }) => {
 };
 
 export default PopularProductCard;
+ 
